@@ -21,7 +21,7 @@ O **Easy Shopping Via Mobile** é uma landing page moderna e responsiva voltada 
 
 Você pode visualizar o projeto clicando na imagem abaixo:
 
-[![Visualização do projeto Easy Shopping](https://github.com/adilsonribeiroalmeida/Easy-Shopping/blob/main/assets/Easy%20Shopping%20-%20Desktop.jpg?raw=true)](https://github.com/adilsonribeiroalmeida/Easy-Shopping)
+[![Visualização do projeto Easy Shopping]([https://github.com/adilsonribeiroalmeida/Easy-Shopping/blob/main/assets/Easy%20Shopping%20-%20Desktop.jpg?raw=true](https://github.com/adilsonribeiroalmeida/Easy-Shopping/blob/main/assets/easy%20shopping.png))](https://github.com/adilsonribeiroalmeida/Easy-Shopping)
 
 *(Certifique-se de que o projeto está publicado no GitHub Pages)*
 
