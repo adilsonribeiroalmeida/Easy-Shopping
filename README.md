@@ -23,7 +23,7 @@ Você pode visualizar o projeto clicando na imagem abaixo:
 
 [![Visualização do projeto Easy Shopping](https://github.com/adilsonribeiroalmeida/Easy-Shopping/blob/main/assets/easy%20shopping.png?raw=true)](https://github.com/adilsonribeiroalmeida/Easy-Shopping)
 
-*(Certifique-se de que o projeto está publicado no GitHub Pages)*
+(Certifique-se de que o projeto está publicado no GitHub Pages)
 
 ---
 
