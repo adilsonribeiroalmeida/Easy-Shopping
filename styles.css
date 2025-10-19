@@ -15,7 +15,7 @@
 .container-left {
   display: inline-block;
   width: 60%;
-  padding-left: 136px;
+  padding: 136px;
   margin-top: 20%;
 }
 
@@ -25,13 +25,12 @@
   height: 100vh;
   width: 40%;
   position: absolute;
-  padding: 40px;
 }
 
 img {
   position: relative;
   top: 25%;
-  right: 138px;
+  right: 130px;
 }
 
 h1 {
@@ -43,18 +42,18 @@ h1 {
 p {
   font-size: 28px;
   line-height: 48px;
-  width: 540px;
   opacity: 0.6;
-  margin: 15px;
+  margin: 15px 0;
+  width: 540px;
 }
 
 button {
   width: 269px;
   height: 62px;
   background: #9499EA;
-  box-shadow: (0px 10px 24px rgba(148, 153, 234, 0.10));
+  box-shadow: 0px 10px 24px rgba(148, 153, 234, 0.0979959);
   border: none;
-  border-radius: 35px;
+  border-radius: 30px;
   font-size: 24px;
   line-height: 36px;
   text-align: center;
@@ -63,11 +62,11 @@ button {
 }
 
 button:hover {
-  opacity: 0.8;
+  opacity: .8;
 }
 
 button:active {
-  opacity: .5;
+  opacity: .05;
 }
 
 a {
@@ -78,7 +77,7 @@ a {
   cursor: pointer;
 }
 
-a:last-child {
+a:nth-child(2) {
   opacity: 0.4;
 }
 
@@ -94,7 +93,8 @@ header {
   margin: 24px 0 0 57px;
 }
 
-@media screen and (max-width: 900px) {
+/* ✅ RESPONSIVO ATÉ 768px */
+@media (max-width: 900px) {
   .container-left {
     width: 100%;
     height: 50%;
@@ -107,6 +107,7 @@ header {
     height: auto;
     width: 100%;
     position: static;
+    padding: 40px;
   }
 
   img {
@@ -135,9 +136,13 @@ header {
   }
 
   button {
-    margin: 0 auto;
+    margin: auto;
     display: block;
-
   }
+}
 
+@media (max-width: 330px) {
+  .container-left {
+    height: 70%;
+  }
 }
